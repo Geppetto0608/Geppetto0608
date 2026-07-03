@@ -135,9 +135,11 @@ Robot manipulation experiments using **uFactory Lite6**, **Isaac Sim**, and real
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Geppetto0608&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+![Geppetto0608's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geppetto0608&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geppetto0608&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geppetto0608&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400)
+
+</div>
 
 <br/><br/>
 
