@@ -4,6 +4,8 @@
 
 ### AI · Robotics · Control Systems · Autonomous Intelligence
 
+**Integrated M.S.-Ph.D. Student in Artificial Intelligence at Hanyang University**
+
 I build learning-based robotic systems that connect
 **simulation, optimization, control, and real-world deployment.**
 
@@ -19,7 +21,7 @@ I build learning-based robotic systems that connect
 
 ## About Me
 
-I am an AI graduate student working on robotics, AI control, reinforcement learning, autonomous systems, and learning-based robot intelligence.
+I am an Integrated M.S.-Ph.D. student in Artificial Intelligence at Hanyang University, working on robotics, AI control, reinforcement learning, autonomous systems, and learning-based robot intelligence.
 
 My main focus is building robotic systems that move beyond isolated algorithms:
 from **simulation and optimization** to **ROS2-based deployment**, **edge AI systems**, and **real-world robot experiments**.
@@ -135,11 +137,9 @@ Robot manipulation experiments using **uFactory Lite6**, **Isaac Sim**, and real
 
 <div align="center">
 
-![Geppetto0608's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geppetto0608&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=Geppetto0608&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="165"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geppetto0608&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400)
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geppetto0608&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" height="165"/>
 
 <br/><br/>
 
