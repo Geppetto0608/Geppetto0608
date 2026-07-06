@@ -76,9 +76,9 @@ Robotics AI · Control · VLA/VLM · ROS2 · UAVs · Sensor Optimization · Edge
 
 ---
 
-## Featured Projects
+## Selected Public Projects
 
-### 3D LiDAR Optimal Deployment
+### [3D LiDAR Optimal Deployment](https://github.com/Geppetto0608/3D-LiDAR-optimal-deployment)
 
 Optimization-based LiDAR placement research using **MILP**, **Greedy**, and **learning-based methods** for autonomous infrastructure sensing.
 
@@ -88,7 +88,7 @@ Optimization-based LiDAR placement research using **MILP**, **Greedy**, and **le
 
 ---
 
-### Edge Mobility Monitor
+### [Edge Mobility Monitor](https://github.com/Geppetto0608/edge-mobility-monitor)
 
 Real-time **Jetson-Android monitoring system** for mobility platforms.
 
@@ -98,6 +98,18 @@ Real-time **Jetson-Android monitoring system** for mobility platforms.
 * Jetson-based edge AI integration
 
 ---
+
+### [YOLO Example](https://github.com/Geppetto0608/YOLO-example)
+
+Computer-vision learning examples covering YOLO detection, segmentation, Google Colab webcam inference, YouTube video inference, and VLM analysis.
+
+* KITTI-format label conversion and YOLO training workflow
+* Real-time Colab webcam inference examples
+* VLM-based image understanding workflow
+
+---
+
+## Research Work In Progress
 
 ### Few-shot UAV Dynamics Learning
 
@@ -118,6 +130,8 @@ Robot manipulation experiments using **uFactory Lite6**, **Isaac Sim**, and real
 * Real robot data collection
 * Pick-and-place task learning
 * Simulation-to-real manipulation pipeline
+
+Public repositories and reproducible artifacts for these work-in-progress projects are to be added.
 
 ---
 
